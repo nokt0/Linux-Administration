@@ -50,7 +50,7 @@ mv ~/list_conf_d ~/$dir_name/.sub/
 #Task 18
 mv -b ~/list_conf_d ~/$dir_name/.sub/
 #Task 19
-ls ~/test -a -R
+ls ~/test -A -R
 #Task 20
 man man > ~/man.txt
 #Task 21
